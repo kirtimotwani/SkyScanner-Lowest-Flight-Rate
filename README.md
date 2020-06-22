@@ -29,3 +29,7 @@ And the url pattern for accessing Dashboard with useful analytics information is
 https://hidden-lake-39790.herokuapp.com/getDashboard
 
 ![dash](https://github.com/kirtimotwani/SkyScanner-Lowest-Flight-Rate/blob/master/dash.png)
+
+FlightSearchMainClass.java and GetFlightFares.java- These files inplement the android application in Java that communicates with web service deployed on Heroku using HTTP request-response protocol.
+
+![androidImg](https://github.com/kirtimotwani/SkyScanner-Lowest-Flight-Rate/blob/master/android%20image.png)
