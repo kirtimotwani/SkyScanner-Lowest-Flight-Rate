@@ -8,4 +8,4 @@ The application is deployed on a Cloud plaform- Heroku so that the web applicati
 
 Below is an illustration of the flow of my project
 
-! [diag](https://github.com/kirtimotwani/SkyScanner-Lowest-Flight-Rate/blob/master/android.jpg)
+![figure](https://github.com/kirtimotwani/SkyScanner-Lowest-Flight-Rate/blob/master/android.jpg)
